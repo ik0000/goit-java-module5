@@ -1,0 +1,18 @@
+For given array:
+6.0
+2.0
+8.0
+-100.0
+-20.0
+100.0
+50.0
+Smallest is : -100
+Bigget is : 100
+Sorted array(Bubble sort):
+-100.0
+-20.0
+2.0
+6.0
+8.0
+50.0
+100.0
